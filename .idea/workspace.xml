@@ -361,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510349927737</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1st commit">
+      <created>1510771433252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510771433252</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -440,6 +447,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="ist commit" />
     <MESSAGE value="1st commit" />
     <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
